@@ -8,5 +8,5 @@ This is a final research project work for the course "COMP-5800 Project" in M.Sc
 
 **Final Output** 
 <div align=center>
-<img src="https://raw.githubusercontent.com/wm-bupt/images/main/oracle-mnist.png" width="800">
+<img src="images/final_out.png" width="800">
 </div>
